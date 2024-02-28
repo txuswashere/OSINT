@@ -299,7 +299,7 @@ These websites are mostly US based
 
 - We can use this code. It was made by Heath Adams on his OSINT course in TCM Security Academy. You can check out this course [here](https://academy.tcm-sec.com/p/osint-fundamentals)
 - It will see whois, find subdomains. Once it finds subdomain it is going to check if the subdomains are alive and then it will screenshot the subdomains that are alive.
-- It will use automated tools (subfinder, assetfinder, amass, httprobe) that you can find info on [here](tools.md)
+- It will use automated tools (subfinder, assetfinder, amass, httprobe) that you can find info
 - We can make it better and more suited to our needs, like adding other subdomain enum tools, etc..
 - There is also a tool called Photon that we can use for similar purposes
 
